@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## 🎨 Figma Design – Client Side Profile
+You can view the **client-side profile UI design** on Figma using the link below:
+
+https://www.figma.com/design/FL75BCXqh4Y3Q1U9Do96wE/Zakoota_Design?t=9jZ3FGKQMRHX2Nez-1
+
+---
 ## Getting Started
 
 This project is a starting point for a Flutter application.
