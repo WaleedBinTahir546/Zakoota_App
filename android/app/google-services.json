@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98602016873",
+    "project_id": "zakoota-e4451",
+    "storage_bucket": "zakoota-e4451.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98602016873:android:129be10b1d543933ff02f8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlqRNMF4bvHDYLY2RyJ_gYVISYfMbyes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
